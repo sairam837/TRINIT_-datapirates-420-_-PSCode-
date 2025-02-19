@@ -1,10 +1,13 @@
 # TRINIT_-datapirates-420-_-PSCode-
-Introduction
+
+**Introduction**
 Our aim is to create a website which is all about 
 agriculture needs like what medicines are required and 
 which crop can be planted in which season all the 
 details will be available in our website.
-Proposed Methods:
+
+
+**Proposed Methods:**
 We are just in beginning stage later we are planning to 
 take data sets of which agriculture research is present 
 and we will predict the outcome of which crop to be 
@@ -16,7 +19,10 @@ looking forward on complete whole project but it takes
 time as we are parallelly learning machine learning. 
 After few months we are expecting our models will 
 predict more accurately.
-Conclusion:
+
+
+
+**Conclusion:**
 Our main aim to help small farmers who doesn’t have 
 knowledge on agriculture to get hands on agriculture 
 tactics from our website we are also trying to ad 
